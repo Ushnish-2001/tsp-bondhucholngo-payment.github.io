@@ -73,7 +73,7 @@
 }
 #home::before{
     content: " ";
-    background: url(./bcn\ 1.png)no-repeat center center/cover;
+    background: url(./photo/bcn\ 1.png)no-repeat center center/cover;
     background-size: cover;
     overflow: hidden;
     height: 73%;
